@@ -1,7 +1,15 @@
 import java.io.IOException;
 import java.util.Scanner;
 
+/* Aluno: Kayque Damasceno
+ * Curso: Engenharia da Computação
+ * Email: kayquedamasceno18@gmail.com
+ * Data:  30/08/2018
+ * 
+ */
+
 public class Main {
+
 
 	static int p;
 	static int A, B;
